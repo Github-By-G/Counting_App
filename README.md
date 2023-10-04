@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Counting web-App 
 
 ## Using react created a simple increment and decrement button; just counts the values upto 10
 
