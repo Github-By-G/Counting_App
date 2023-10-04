@@ -1,5 +1,46 @@
 # Getting Started with Create React App
 
+## Using react created a simple increment and decrement button; just counts the values upto 10
+
+
+To Run:
+
+- Dowload the Counting_App.zip folder
+- Unzip and open the repository/folder path in the terminal
+- RUN/Enter: npm start
+
+
+
+## Here's the out put:
+
+![image](https://github.com/Mr-barnes/Counting_App/assets/83700543/b432c0b2-584d-4fa3-8426-167fa5ec2c34)
+
+
+
+
+
+FOR More detailed Run read below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
