@@ -12,8 +12,11 @@ To Run:
 
 
 ## Here's the out put:
-
+# 1
 ![image](https://github.com/Mr-barnes/Counting_App/assets/83700543/b432c0b2-584d-4fa3-8426-167fa5ec2c34)
+# 2
+![image](https://github.com/Mr-barnes/Counting_App/assets/83700543/7766975a-8ec8-4518-9d4f-698a18a7cac5)
+
 
 
 
