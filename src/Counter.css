@@ -1,0 +1,42 @@
+/* Counter.css */
+body {
+  background: linear-gradient(
+    to bottom,
+    red,
+    black
+  ); /* Gradient background from red to black */
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(0, 0, 0);
+  min-height: 100vh; /* Ensure the gradient covers the entire viewport */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.counter {
+  text-align: center;
+  margin: 20px;
+}
+
+.counter-heading {
+  font-size: 40px;
+  text-align: left;
+  margin-left: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  color: rgb(0, 0, 0); /* Set text color to white */
+  position: absolute; /* Position absolutely within the body */
+  top: 20px; /* Adjust the top position to move it to the top-left corner */
+  left: 20px; /* Adjust the left position to move it to the top-left corner */
+}
+
+p {
+  font-size: 22px;
+}
+
+button {
+  font-size: 24px;
+  margin: 10px;
+  padding: 5px 10px;
+}
