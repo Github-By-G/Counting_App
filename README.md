@@ -26,32 +26,18 @@ TO check the files
   
   Counter.js: contains the script
 
-  Counter.css: contains the page color,font,stylea
+  Counter.css: contains the page color,font,styles
 
 
-
-
+```
+//
+```
 FOR More detailed Run in below:
 
+
+```
 //
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
