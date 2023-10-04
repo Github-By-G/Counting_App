@@ -23,7 +23,9 @@ Note: no need to change anything
 ----------------------
 TO check the files 
 - Created Counter.js and Counter.css
+  
   Counter.js: contains the script
+
   Counter.css: contains the page color,font,stylea
 
 
