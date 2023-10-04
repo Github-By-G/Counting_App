@@ -5,9 +5,11 @@
 
 To Run:
 
-- Dowload the Counting_App.zip folder
+- Download the Counting_App.zip folder
 - Unzip and open the repository/folder path in the terminal
 - RUN/Enter: npm start
+
+Note: no need to change anything
 
 
 
