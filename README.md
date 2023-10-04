@@ -20,7 +20,11 @@ Note: no need to change anything
 # 2
 ![image](https://github.com/Mr-barnes/Counting_App/assets/83700543/7766975a-8ec8-4518-9d4f-698a18a7cac5)
 
-
+----------------------
+TO check the files 
+- Created Counter.js and Counter.css
+  Counter.js: contains the script
+  Counter.css: contains the page color,font,stylea
 
 
 
