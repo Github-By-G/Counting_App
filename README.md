@@ -19,7 +19,7 @@ To Run:
 
 
 
-FOR More detailed Run read below:
+FOR More detailed Run in below:
 
 
 
