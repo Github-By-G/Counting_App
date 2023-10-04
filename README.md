@@ -28,10 +28,10 @@ TO check the files
 
   Counter.css: contains the page color,font,styles
 
-
-```
+/
 //
-```
+///
+////
 FOR More detailed Run in below:
 
 
