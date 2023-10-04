@@ -7,7 +7,10 @@ To Run:
 
 - Download the Counting_App.zip folder
 - Unzip and open the repository/folder path in the terminal
-- RUN/Enter: npm start
+- RUN/Enter:
+  ```
+  npm start
+  ```
 
 Note: no need to change anything
 
@@ -32,12 +35,10 @@ TO check the files
 //
 ///
 ////
+
+
 FOR More detailed Run in below:
 
-
-```
-//
-```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
