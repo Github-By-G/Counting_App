@@ -26,6 +26,7 @@ Note: no need to change anything
 ----------------------
 TO check the files 
 - Created Counter.js and Counter.css
+- In order to access these files open ' Counter_App ' folder then go to 'src' folder
   
   Counter.js: contains the script
 
